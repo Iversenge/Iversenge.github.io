@@ -1,5 +1,5 @@
 # 是Iversenge的个人站
-## [个人介绍](http://iversenge.space/person.html)
+## [个人介绍](http://iversenge.space/person.md)
 ## 一些网站的个人页面
 ### [劈里啪啦](https://space.bilibili.com/386404441)
 ### [ACFun](https://www.acfun.cn/u/18938165)
